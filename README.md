@@ -60,6 +60,10 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
+ ![HolaMundo.hs](https://github.com/albertomorenogonzalez/aprende-un-lenguaje-en-un-dia/blob/master/images/HolaMundo.png)  
+ 
+ ![HolaMundo Compilado](https://github.com/albertomorenogonzalez/aprende-un-lenguaje-en-un-dia/blob/master/images/HolaMundo%20compilado.png) 
+
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
