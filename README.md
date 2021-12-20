@@ -28,9 +28,11 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
-* Alan Brito
-* Elba Lazo
-* Esteban Quito
+Nombre de grupo: G2Campanillas
+
+* Alberto Moreno González
+* Jose Antonio Benitez Ruiz
+* Davd Servia Morales
 
 ## Lenguaje de programación
 
@@ -38,17 +40,17 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 
 Escribe el lenguaje de programación elegido por el grupo.
 
-* Mi lenguaje
+* Haskell
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
 ## Información sobre el lenguaje
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
+Haskell es un lenguaje de programación puramente funcional, cuya primera versión fue lanzada en 1990. Su nombre proviene del matemático Haskell Brooks Curry, que sentó las bases de los lenguajes de programación funcional con su trabajo sobre lógica combinatoria (entre 1920 y 1960). Haskell se basa en el cálculo lambda (lenguaje formal para la investigación de funciones), por lo que el logotipo del lenguaje contiene el símbolo de esta letra griega.
 
 ## Herramientas de desarrollo
 
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
+Nano, compilado en terminal de linux
 
 ## Poniendo en práctica el lenguaje
 
